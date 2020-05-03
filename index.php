@@ -17,7 +17,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Corona Counter</title>
+    <title>Covid-19</title>
+    <link rel="shortcut icon" type="image/png" href="img/corona.png"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -25,7 +26,7 @@
   <body>
     <div class="container">
       <div class="table-responsive">
-        <h1 style="background-color:DarkSalmon;" align="center"> COVİD-19 with Numbers </h1>
+        <h1 style="background-color:DarkSalmon;" align="center"> COVID-19 with Numbers </h1>
         <table class="table table-bordered" id="corona_table">
           <tr class="success">
             <th>Country</th>
